@@ -997,7 +997,7 @@
             "id": "4ed2c925-d4d4-4b6d-bd84-de72c0582729",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "wa",
                     "type": "Button",
                     "id": "f24013d8-dd75-4617-bc87-997b816cfd1e",
                     "expectedControlType": "",
@@ -1013,8 +1013,8 @@
                     "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
-                    "action": "New action",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "wa",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -1025,7 +1025,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "wa",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
